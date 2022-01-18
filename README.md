@@ -1,0 +1,2 @@
+# DependabotDisabled
+Dependabot is Disabled
